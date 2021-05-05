@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Cheesythefish
+- 👋 Hi, I’m Tumbeaa
 - 👀 I’m interested in Lua
 - 🌱 I’m currently learning roblox scripting/Lua
 - 💞️ I’m looking to collaborate on build my very own ROBLOX game
